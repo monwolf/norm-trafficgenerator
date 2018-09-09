@@ -1,0 +1,3 @@
+url: "http://127.0.0.1/sample.txt"
+max_execution_time: 10
+normal_distribution: { mean: 10, standard_deviation: 2, upper_limit: 14, lower_limit: 8}
